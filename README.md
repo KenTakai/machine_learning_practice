@@ -1,1 +1,2 @@
-## Machine learning practice by applying various methods to MNIST datasets
+## Machine learning practice 
+Various machine learning methods are applied to classify MNIST datasets!
